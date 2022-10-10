@@ -39,8 +39,11 @@
    3. get state from usReducer
 9. Add BootStrap
    1. npm install react-bootstrap bootstrap --force
-      2.update App.js
+   2. update App.js
 10. Create product and rating component
-    1.Create Rating Component
-    2.Create Product Component
-    3.Use Rating Component and Product Component
+11. Create Rating Component
+12. Create Product Component
+13. Use Rating Component and Product Component
+14. Create Product Details Screen
+15. fetch product from backend
+16. create 3 columns for image,info and action
