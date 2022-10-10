@@ -1,0 +1,55 @@
+const data = {
+  products: [
+    {
+      name: 'EMMA SMITH Clutch Evening Bag',
+      slug: 'EMMA-SMITH-Clutch-Evening-Bag',
+      category: 'Handbags',
+      image: '/images/p1.jpg',
+      price: 1399,
+      countInStock: 10,
+      brand: 'EMMA SMITH',
+      rating: 4,
+      numReviews: 10,
+      description: 'Premium quality handbag perfect for all occasions',
+    },
+    {
+      name: 'Fostelo Womens Style Diva Handbag',
+      slug: 'Fostelo-Womens-Style-Diva-Handbag',
+      category: 'Handbags',
+      image: '/images/p2.jpg',
+      price: 499,
+      countInStock: 20,
+      brand: 'FOSTELO',
+      rating: 4,
+      numReviews: 500,
+      description: 'Modern Handbag with elegant design',
+    },
+    {
+      name: 'Lino Perro Colored Sling bag (BEIGE)',
+      slug: 'Lino-Perro-Colored-Sling-bag-(BEIGE)',
+      category: 'Handbags',
+      image: '/images/p3.jpg',
+      price: 658,
+      countInStock: 15,
+      brand: 'LINO PERRO',
+      rating: 3.5,
+      numReviews: 185,
+      description: 'Premium quality handbag adding charm to your looks',
+    },
+    {
+      name: 'Envias Womens Handbag (Peach)',
+      slug: 'Envias-Womens-Handbag-(Peach)',
+      category: 'Handbags',
+      image: '/images/p4.jpg',
+      price: 599,
+      countInStock: 10,
+      brand: 'ENVIAS',
+      rating: 3,
+      numReviews: 30,
+      description:
+        'This bag is versatile and can transition from going to work in the weekdays to going out with family on weekends ',
+    },
+  ],
+};
+
+export default data;
