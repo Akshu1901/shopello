@@ -44,4 +44,3 @@
     1.Create Rating Component
     2.Create Product Component
     3.Use Rating Component and Product Component
-11.
