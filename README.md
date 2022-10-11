@@ -47,3 +47,8 @@
 14. Create Product Details Screen
 15. fetch product from backend
 16. create 3 columns for image,info and action
+17. IMPLEMENT ADD TO CART
+18. Create React Context
+19. define reducer
+20. create store provider
+21. implement add to cart button click handler
